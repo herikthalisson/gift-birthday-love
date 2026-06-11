@@ -8,7 +8,6 @@ export const observacao = computed(()=>[
 
 // Nome do autor/assinatura
 export const autor = "Herik 💙"
-export const autor = "Herik 💙"
 
 // Mensagem principal (cada item da lista será uma linha ou parágrafo)
 export const mensagem = computed(()=>[
