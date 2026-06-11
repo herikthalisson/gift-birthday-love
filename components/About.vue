@@ -14,5 +14,5 @@
 </template>
 
 <script setup>
-import { titulo, mensagem } from '~/data/sobre'
+import { titulo, mensagem } from '~/data/about.js'
 </script>

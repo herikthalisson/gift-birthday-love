@@ -1,5 +1,5 @@
 // Nome da Homenageada
-const homenageada = "Moça..."
+const homenageada = "Cinthia ❤️"
 
 // Observação ou mensagem extra
 export const observacao = computed(()=>[
@@ -7,7 +7,7 @@ export const observacao = computed(()=>[
 ])
 
 // Nome do autor/assinatura
-export const autor = "Breno 💙"
+export const autor = "Herik 💙"
 
 // Mensagem principal (cada item da lista será uma linha ou parágrafo)
 export const mensagem = computed(()=>[
